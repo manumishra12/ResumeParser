@@ -14,7 +14,6 @@ This is a **basic resume parser** that extracts structured data from `.pdf`, `.d
   - Summary
   - Education & Work History
 - Saves output to a JSON file
-- No `textract` used (uses `PyMuPDF`, `python-docx`)
 
 ---
 
