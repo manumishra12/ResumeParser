@@ -25,14 +25,6 @@ Install dependencies:
 pip install google-generativeai pymupdf python-docx
 ```
 
-### 📁 File Structure
-resume_parser/
-│
-├── resume_parser.py     # Main script
-├── requirements.txt     # Python dependencies
-├── sample_resume.pdf    # Sample input file
-└── README.md            # This file
-
 ### 🔧 Setup Instructions
 
 Step 1: Clone or create the project:
