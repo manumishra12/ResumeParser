@@ -1,0 +1,112 @@
+{
+    "address": {
+        "city": "Miraroad, Thane",
+        "country": "IND",
+        "state": "MH"
+    },
+    "education_history": [
+        {
+            "degree": "Bachelor of Engineering - Computers",
+            "from_date": null,
+            "name": "Rajiv Gandhi Institute of Technology, Mumbai University",
+            "to_date": "May 2019"
+        }
+    ],
+    "email": "xyz@gmail.com",
+    "first_name": "Vijay",
+    "last_name": "Pagare",
+    "phone": "+91)889XXXXX28",
+    "skills": [
+        {
+            "skill": "Javascript"
+        },
+        {
+            "skill": "Typescript"
+        },
+        {
+            "skill": "React"
+        },
+        {
+            "skill": "NextJS"
+        },
+        {
+            "skill": "Angular 2+"
+        },
+        {
+            "skill": "TailwindCSS"
+        },
+        {
+            "skill": "HTML"
+        },
+        {
+            "skill": "CSS/SCSS"
+        },
+        {
+            "skill": "Git"
+        },
+        {
+            "skill": "REST-APIs using Nodejs"
+        },
+        {
+            "skill": "Linux"
+        },
+        {
+            "skill": "Material & Ant Design"
+        },
+        {
+            "skill": "ES6"
+        },
+        {
+            "skill": "Redux"
+        },
+        {
+            "skill": "RxJS"
+        },
+        {
+            "skill": "Apache Echarts"
+        },
+        {
+            "skill": "D3.js"
+        },
+        {
+            "skill": "Three.js"
+        },
+        {
+            "skill": "Sockets"
+        },
+        {
+            "skill": "PWA"
+        }
+    ],
+    "summary": "A frontend-leaning software engineer with 4.5+ years of experience in building and maintaining high-quality (B2B) saas products and web applications. Proven ability to work independently and as part of a team in fast-moving, resource-constraint environments.  Exceptional at leveraging interpersonal skills to facilitate collaboration among cross-functional teams. Excellent problem-solver with an aptitude for troubleshooting and quickly mastering new skills, technology, or roles.",
+    "work_history": [
+        {
+            "company": "PROPELLOR.AI",
+            "description": "Architected, built and maintained business critical modules for a data unification and visualisation platform. Introduced 20+ charts. Developed 10+ data sources by integrating 3rd party APIs. Implemented features: ticketing system, billing service, user management, rich-text-editor enabled notes, admin panel, RBACs & Tier-Based User Restriction Service, chart alerts, dashboard and charting related - page & group filters, external share, save as pdf, slideshow mode. Stabilised the app by reducing bugs by 90% within a quarter. Redesigned API responses. Refactored the centralised state management service. Built a tracking service for Root Cause Analysis. Established an AWS pipeline for dev, stage, and prod environments. Enhanced User Experience and Interface. Prepared a UX + lighthouse report. Implemented driver.js for product demos. Took lighthouse accessibility and best practices scores to around 90 from below 60. Revamped the architecture of the core charting library and dashboard module. Led migration from angular v9 to v15. Single-handedly leading frontend development since Jan 2023. Active contributions in project planning and product discussions.",
+            "from_date": "August 2021",
+            "title": "Software Engineer - Frontend",
+            "to_date": "Present"
+        },
+        {
+            "company": "ERAGAP VENTURES",
+            "description": "Indie-hacked a portfolio of products and services as a solopreneur. Worked on web-based saas tools, media initiatives, and client projects. Built ecom apps, a web app providing legal documents service, and an SEO-rich blog app. Built a content automation platform. Built a philosophy-based app.",
+            "from_date": "Sept 2020",
+            "title": "Software Engineer - Founder",
+            "to_date": "August 2021"
+        },
+        {
+            "company": "FLEXILOANS",
+            "description": "Built a dynamic client onboarding and lead generation platform (JSON-based) integrated with business partners. Features: KYC flow, Loans Profile Section, E-Nach/Ops flow. Awarded Employee of the Month twice.",
+            "from_date": "June 2019",
+            "title": "Software Engineer - Frontend",
+            "to_date": "Sept 2020"
+        },
+        {
+            "company": "LUMINAIRE ACADEMY",
+            "description": "Bootstrapped an offline coaching institute. Roles: Teaching (physics), guest lecturing, mentoring. Prime decision-making, marketing and revenue generation. ARR: 15 lac.",
+            "from_date": "2015",
+            "title": "Lecturer - Founder",
+            "to_date": "2019"
+        }
+    ]
+}
