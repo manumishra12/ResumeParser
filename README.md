@@ -4,7 +4,7 @@ This is a **basic resume parser** that extracts structured data from `.pdf`, `.d
 
 ---
 
-## 🧩 Features
+### 🧩 Features
 
 - Supports `.pdf`, `.docx`, and `.txt` resume files
 - Uses **Google Gemini API** for intelligent parsing
@@ -18,14 +18,14 @@ This is a **basic resume parser** that extracts structured data from `.pdf`, `.d
 
 ---
 
-## 📦 Requirements
+### 📦 Requirements
 
 Install dependencies:
 ```bash
 pip install google-generativeai pymupdf python-docx
 ```
 
-## 📁 File Structure
+### 📁 File Structure
 resume_parser/
 │
 ├── resume_parser.py     # Main script
@@ -33,7 +33,7 @@ resume_parser/
 ├── sample_resume.pdf    # Sample input file
 └── README.md            # This file
 
-## 🔧 Setup Instructions
+### 🔧 Setup Instructions
 
 Step 1: Clone or create the project:
 
@@ -57,7 +57,7 @@ Or use environment variables:
 export GEMINI_API_KEY="YOUR_API_KEY_HERE"
 ```
 
-▶️ How to Run
+### ▶️ How to Run
 ```bash
 python parser.py
 Streamlit run Streamlit_app.py
